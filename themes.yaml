@@ -19,6 +19,8 @@ Google - Light:
   primary-background-color: "#F7F9FB"
   secondary-background-color: "#ffffff"
   divider-color: "#e7e7e7"
+  paper-icon-button-active-color: "#061014"
+  paper-icon-button-inactive-color: "#a1a1a1"
   ### Text ###
   primary-text-color: "#000000"
   secondary-text-color: "#757575"
@@ -86,6 +88,8 @@ Google - Dark:
   primary-background-color: "#000000"
   secondary-background-color: "#2b2b2b"
   divider-color: "#2b2b2b"
+  paper-icon-button-active-color: "#ffffff"
+  paper-icon-button-inactive-color: "#a1a1a1"
   ### Text ###
   primary-text-color: "#ffffff"
   secondary-text-color: "#d7d7d7"
