@@ -9,7 +9,7 @@ Hope you'll like it!
 Set theme to true in your configuration file:
 https://hacs.netlify.com/installation/configuration/
 
-Afterwards, you have to do another manual step by adding the repository (https://github.com/liri/lovelace-themes) as a custom repository, as it has not been added to HACS by default (as noted in my previous post)
+Afterwards, you have to do another manual step by adding the repository (https://github.com/liri/lovelace-themes) as a custom repository, as it has not been added to HACS by default
 
 ## Installation on HA
 Simply download google-home.yaml file into your homeassistant configuration folder and inside your configuration.yaml file import the file:
