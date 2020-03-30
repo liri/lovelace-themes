@@ -121,6 +121,7 @@ Google - Dark:
   label-badge-red: "#6C7B9B"
   ### Cards ###
   paper-card-background-color: "#2b2b2b"
+  card-background-color: var(--paper-card-background-color)
   paper-listbox-background-color: "#000000"
   ### Toggles ###
   paper-toggle-button-checked-button-color: "#4284F4"
